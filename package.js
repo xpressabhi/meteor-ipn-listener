@@ -16,7 +16,7 @@ Npm.depends({
 });
 
 Package.onUse(function(api) {
-  api.versionsFrom('1.3.3');
+  api.versionsFrom('2.3');
   api.use([
     'ecmascript',
     'underscore',
